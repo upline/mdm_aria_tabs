@@ -1,0 +1,1940 @@
+{
+  "uid": "ul7mg6w470uemtvs8lwj",
+  "className": "WidgetMetaHtml",
+  "data": {
+    "datamix": {
+      "nodebg": "4.2",
+      "widgetpaddings": "4.2",
+      "widgetborders": "4.2",
+      "widgetshadow": "4.2",
+      "widgetfx": "4.2",
+      "widgetparameters": "4.2",
+      "widgetadaptive": "4.2",
+      "metahtml": "4.2",
+      "repeater": "4.2"
+    },
+    "style": {
+      "handlers": "style",
+      "vals": {
+        "bgType": "clear",
+        "bgImage": {
+          "datamix": {
+            "img": "4.2"
+          },
+          "quality": 8,
+          "source": "upload",
+          "resize": true,
+          "legacy_color": [
+            0.55023297764639,
+            1,
+            0.5
+          ],
+          "legacy_pack": "bg-tech",
+          "blur": {
+            "enable": true,
+            "size": 16
+          },
+          "source_id": "",
+          "variable_id": "",
+          "file": "//static.creatium.io/img/bg-tech/1.jpg",
+          "size": [
+            1600,
+            1046
+          ]
+        },
+        "bgImage_Attach": false,
+        "bgImage_Size": "cover",
+        "bgImage_Repeat": "repeat",
+        "bgImage_Valign": "center",
+        "bgImage_Halign": "center",
+        "bgVideo_Source": "youtube",
+        "bgVideo_Youtube": "http://www.youtube.com/watch?v=3oem-M2tQU4",
+        "bgVideo_YoutubeImageSource": "youtube",
+        "bgVideo_YoutubeImage": {
+          "datamix": {
+            "img": "4.2"
+          },
+          "quality": 8,
+          "source": "upload",
+          "resize": true,
+          "legacy_color": [
+            0,
+            1,
+            0.5,
+            1
+          ],
+          "legacy_pack": "users",
+          "blur": {
+            "enable": true,
+            "size": 16
+          },
+          "source_id": "",
+          "variable_id": "",
+          "file": "http://img.youtube.com/vi/3oem-M2tQU4/maxresdefault.jpg",
+          "size": [
+            1920,
+            1080
+          ]
+        },
+        "bgVideo_Mp4": "//static.creatium.io/bgvideo/island.mp4",
+        "bgVideo_Webm": "//static.creatium.io/bgvideo/island.webm",
+        "bgVideo_Ogv": "//static.creatium.io/bgvideo/island.ogv",
+        "bgVideo_DirectImage": {
+          "datamix": {
+            "img": "4.2"
+          },
+          "quality": 8,
+          "source": "upload",
+          "resize": true,
+          "legacy_color": [
+            0,
+            1,
+            0.5,
+            1
+          ],
+          "legacy_pack": "users",
+          "blur": {
+            "enable": true,
+            "size": 16
+          },
+          "source_id": "",
+          "variable_id": "",
+          "file": "//static.creatium.io/bgvideo/island.jpg",
+          "size": [
+            1280,
+            720
+          ]
+        },
+        "bgVideo_Sound": false,
+        "bgColor": {
+          "datamix": {
+            "color": "4.2"
+          },
+          "data": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "global": {
+            "id": 0,
+            "transform": []
+          },
+          "variable": {
+            "source_id": "",
+            "id": "",
+            "transform": [],
+            "basic": [
+              1,
+              1,
+              0.5,
+              1
+            ]
+          },
+          "source": "global",
+          "router": "color"
+        },
+        "bgColor_Alpha": 0.25,
+        "bgColor_Bright": -0.34,
+        "bgBright": -0.5,
+        "bgGradientDirection": "to bottom",
+        "bgGradientColor1": {
+          "datamix": {
+            "color": "4.2"
+          },
+          "data": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "global": {
+            "id": 0,
+            "transform": []
+          },
+          "variable": {
+            "source_id": "",
+            "id": "",
+            "transform": [],
+            "basic": [
+              1,
+              1,
+              0.5,
+              1
+            ]
+          },
+          "source": "global",
+          "router": "color"
+        },
+        "bgGradientColor1_Alpha": 0.8,
+        "bgGradientColor2": {
+          "datamix": {
+            "color": "4.2"
+          },
+          "data": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "global": {
+            "id": 0,
+            "transform": []
+          },
+          "variable": {
+            "source_id": "",
+            "id": "",
+            "transform": [],
+            "basic": [
+              1,
+              1,
+              0.5,
+              1
+            ]
+          },
+          "source": "global",
+          "router": "color"
+        },
+        "bgGradientColor2_Alpha": 0.2,
+        "bgGradientCode": "linear-gradient(90deg, rgba(195,40,34,1) 0%, rgba(222,224,96,1) 50%, rgba(45,253,235,1) 100%)",
+        "bgGradientColorside": "dec",
+        "bgParticlesShapeParticle": "circle",
+        "bgParticlesColorParticle": {
+          "datamix": {
+            "color": "4.2"
+          },
+          "data": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "global": {
+            "id": 0,
+            "transform": []
+          },
+          "variable": {
+            "source_id": "",
+            "id": "",
+            "transform": [],
+            "basic": [
+              1,
+              1,
+              0.5,
+              1
+            ]
+          },
+          "source": "contrast",
+          "contrast": {
+            "type": "frontcolor"
+          },
+          "parent": {
+            "type": "frontcolor"
+          }
+        },
+        "bgParticlesOpacityParticle": 1,
+        "bgParticlesNumberParticle": 80,
+        "bgParticlesSizeParticle": 5,
+        "bgParticlesLink": true,
+        "bgParticlesLinkDistance": 150,
+        "bgParticlesMoveState": true,
+        "bgParticlesMoveSpeed": 2,
+        "bgParticlesMoveDirection": "none",
+        "bgParticlesMoveOutMode": "out",
+        "bgParticlesInteractHoverState": false,
+        "bgParticlesInteractHoverType": "grab",
+        "bgParticlesInteractHoverGrabDistance": 250,
+        "bgParticlesInteractHoverGrabOpacity": 0.8,
+        "bgParticlesInteractHoverRepulseDistance": 150,
+        "bgParticlesInteractHoverBubbleDistance": 150,
+        "bgParticlesInteractHoverBubbleSize": 10,
+        "bgParticlesInteractClickState": false,
+        "bgParticlesInteractClickType": "push",
+        "bgParticlesInteractClickCount": 2,
+        "padTop_x_all": 10,
+        "padTop_x_md": null,
+        "padTop_x_sm": null,
+        "padTop_x_xs": null,
+        "padBottom_x_all": 10,
+        "padBottom_x_md": null,
+        "padBottom_x_sm": null,
+        "padBottom_x_xs": null,
+        "padLeft_x_all": 5,
+        "padLeft_x_md": null,
+        "padLeft_x_sm": null,
+        "padLeft_x_xs": null,
+        "padRight_x_all": 5,
+        "padRight_x_md": null,
+        "padRight_x_sm": null,
+        "padRight_x_xs": null,
+        "borderWidth": 3,
+        "borderRadius": 0,
+        "borderStyle": "none",
+        "borderColor": {
+          "datamix": {
+            "color": "4.2"
+          },
+          "data": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "global": {
+            "id": 0,
+            "transform": []
+          },
+          "variable": {
+            "source_id": "",
+            "id": "",
+            "transform": [],
+            "basic": [
+              1,
+              1,
+              0.5,
+              1
+            ]
+          },
+          "source": "parent",
+          "parent": {
+            "type": "frontcolor"
+          },
+          "router": "color"
+        },
+        "shadow": false,
+        "shadowInset": false,
+        "shadowX": 0,
+        "shadowY": 2,
+        "shadowBlur": 5,
+        "shadowScale": 0,
+        "shadowColor": {
+          "datamix": {
+            "color": "4.2"
+          },
+          "data": [
+            0,
+            0,
+            0
+          ],
+          "global": {
+            "id": 0,
+            "transform": []
+          },
+          "variable": {
+            "source_id": "",
+            "id": "",
+            "transform": [],
+            "basic": [
+              1,
+              1,
+              0.5,
+              1
+            ]
+          },
+          "source": "self",
+          "router": "color"
+        },
+        "shadowAlpha": 0.5,
+        "wow": false,
+        "wowType": "fadeIn",
+        "wowDelay": 0,
+        "hover": false,
+        "hoverType": "hvr-grow-mini",
+        "id": {
+          "datamix": {
+            "ast": "4.2"
+          },
+          "children": []
+        },
+        "classes": {
+          "datamix": {
+            "ast": "4.2"
+          },
+          "children": [
+            {
+              "type": "Code",
+              "code": ""
+            }
+          ]
+        },
+        "showOnXs": true,
+        "showOnSm": true,
+        "showOnMd": true,
+        "showOnLg": true,
+        "showToMembers": true,
+        "showToGuests": true,
+        "showCondition": {
+          "datamix": {
+            "condition": "4.2"
+          },
+          "operator": "and",
+          "conditions": []
+        }
+      }
+    },
+    "settings": {
+      "handlers": "settings",
+      "vals": {
+        "name": "HTML-компонент",
+        "html": "<div class=\"mdn-tabs\">\n    <div role=\"tablist\"  class=\"mdn-tabs__nav\" aria-label=\"Sample Tabs\">\n        <button class=\"mdn-tabs__nav-item\" role=\"tab\" aria-selected=\"true\" aria-controls=\"panel-1\" id=\"tab-1\" tabindex=\"0\">\n        </button>\n        <button class=\"mdn-tabs__nav-item\" role=\"tab\" aria-selected=\"false\" aria-controls=\"panel-2\" id=\"tab-2\" tabindex=\"-1\">\n        </button>\n        <button class=\"mdn-tabs__nav-item\" role=\"tab\" aria-selected=\"false\" aria-controls=\"panel-3\" id=\"tab-3\" tabindex=\"-1\">\n        </button>\n    </div>\n    <div class=\"mdn-tabs__panels\">\n      <div class=\"mdn-tabs__panel\" id=\"panel-1\" role=\"tabpanel\" tabindex=\"0\" aria-labelledby=\"tab-1\">\n      </div>\n      <div class=\"mdn-tabs__panel\" id=\"panel-2\" role=\"tabpanel\" tabindex=\"0\" aria-labelledby=\"tab-2\" hidden>\n      </div>\n      <div class=\"mdn-tabs__panel\" id=\"panel-3\" role=\"tabpanel\" tabindex=\"0\" aria-labelledby=\"tab-3\" hidden>\n\n      </div>\n    </div>\n</div>",
+        "css": ".mdn-tabs{\n\n}\n.mdn-tabs__nav{\n    margin-top: 100px;\n    margin-bottom: 100px;\n    margin-left: 0px;\n    margin-right: 0px;\n    display: flex;\n    gap: 10px;\n}\n.mdn-tabs__nav-item{\n    margin: 0;\n    padding: 0;\n    border: none;\n    background: transparent;\n}\n.mdn-tabs__panels{\n    display: block;\n}\n.mdn-tabs__panel{\n\n}",
+        "meta_js": "",
+        "meta_js_lazy": false,
+        "meta_js_state": "return {\n  initialState: {},\n  eventListeners: {},\n  reset: function () {},\n};",
+        "encapsulation": true,
+        "embeds": [
+          {
+            "name": "tab1",
+            "type": "cont"
+          },
+          {
+            "name": "tab2",
+            "type": "cont"
+          },
+          {
+            "name": "tab3",
+            "type": "cont"
+          },
+          {
+            "name": "tab4",
+            "type": "cont"
+          },
+          {
+            "name": "tab5",
+            "type": "cont"
+          },
+          {
+            "name": "tab6",
+            "type": "cont"
+          },
+          {
+            "name": "tab7",
+            "type": "cont"
+          },
+          {
+            "name": "tab8",
+            "type": "cont"
+          },
+          {
+            "name": "tab9",
+            "type": "cont"
+          },
+          {
+            "name": "tab10",
+            "type": "cont"
+          },
+          {
+            "name": "panel1",
+            "type": "cont"
+          },
+          {
+            "name": "panel2",
+            "type": "cont"
+          },
+          {
+            "name": "panel3",
+            "type": "cont"
+          },
+          {
+            "name": "panel4",
+            "type": "cont"
+          },
+          {
+            "name": "panel5",
+            "type": "cont"
+          },
+          {
+            "name": "panel6",
+            "type": "cont"
+          },
+          {
+            "name": "panel7",
+            "type": "cont"
+          },
+          {
+            "name": "panel8",
+            "type": "cont"
+          },
+          {
+            "name": "panel9",
+            "type": "cont"
+          },
+          {
+            "name": "panel10",
+            "type": "cont"
+          }
+        ],
+        "meta_cdn": [
+          "https://cdn.jsdelivr.net/gh/upline/mdm_aria_tabs@1.0.3/mdm_aria_tabs.js"
+        ],
+        "meta_cdn_sequentially": false,
+        "tabs": [
+          {
+            "id": "main",
+            "name": "Главные"
+          }
+        ],
+        "variables": [
+          {
+            "macros": "slides_numbers",
+            "name": "Количество слайдов",
+            "showCondition": "",
+            "useInJs": true,
+            "tab": "main",
+            "type": "number",
+            "min": 1,
+            "max": 10,
+            "value": 4
+          }
+        ],
+        "enable_query": false,
+        "query_scheme": "v0.2"
+      },
+      "tabs": {
+        "primary": "metahtml",
+        "metahtml__soft": "metahtml__soft_main",
+        "metahtml__hard": "metahtml__hard_embeds"
+      },
+      "toggles": {
+        "metahtml": "hard"
+      }
+    },
+    "state": {},
+    "embeds": {
+      "tab1": {
+        "datamix": {
+          "cont": "4.2"
+        },
+        "sources": [
+          {
+            "uid": "ul7mg6w48l0px4xyrq5a",
+            "className": "WidgetImagedText",
+            "data": {
+              "datamix": {
+                "nodebg": "4.2",
+                "widgetpaddings": "4.2",
+                "widgetborders": "4.2",
+                "widgetshadow": "4.2",
+                "widgetfx": "4.2",
+                "widgetparameters": "4.2",
+                "widgetadaptive": "4.2"
+              },
+              "style": {
+                "handlers": "style",
+                "vals": {
+                  "bgType": "clear",
+                  "bgImage": {
+                    "datamix": {
+                      "img": "4.2"
+                    },
+                    "quality": 8,
+                    "source": "upload",
+                    "resize": true,
+                    "legacy_color": [
+                      0.55023297764639,
+                      1,
+                      0.5
+                    ],
+                    "legacy_pack": "bg-tech",
+                    "blur": {
+                      "enable": true,
+                      "size": 16
+                    },
+                    "source_id": "",
+                    "variable_id": "",
+                    "file": "//static.creatium.io/img/bg-tech/1.jpg",
+                    "size": [
+                      1600,
+                      1046
+                    ]
+                  },
+                  "bgImage_Attach": false,
+                  "bgImage_Size": "cover",
+                  "bgImage_Repeat": "repeat",
+                  "bgImage_Valign": "center",
+                  "bgImage_Halign": "center",
+                  "bgVideo_Source": "youtube",
+                  "bgVideo_Youtube": "http://www.youtube.com/watch?v=3oem-M2tQU4",
+                  "bgVideo_YoutubeImageSource": "youtube",
+                  "bgVideo_YoutubeImage": {
+                    "datamix": {
+                      "img": "4.2"
+                    },
+                    "quality": 8,
+                    "source": "upload",
+                    "resize": true,
+                    "legacy_color": [
+                      0,
+                      1,
+                      0.5,
+                      1
+                    ],
+                    "legacy_pack": "users",
+                    "blur": {
+                      "enable": true,
+                      "size": 16
+                    },
+                    "source_id": "",
+                    "variable_id": "",
+                    "file": "http://img.youtube.com/vi/3oem-M2tQU4/maxresdefault.jpg",
+                    "size": [
+                      1920,
+                      1080
+                    ]
+                  },
+                  "bgVideo_Mp4": "//static.creatium.io/bgvideo/island.mp4",
+                  "bgVideo_Webm": "//static.creatium.io/bgvideo/island.webm",
+                  "bgVideo_Ogv": "//static.creatium.io/bgvideo/island.ogv",
+                  "bgVideo_DirectImage": {
+                    "datamix": {
+                      "img": "4.2"
+                    },
+                    "quality": 8,
+                    "source": "upload",
+                    "resize": true,
+                    "legacy_color": [
+                      0,
+                      1,
+                      0.5,
+                      1
+                    ],
+                    "legacy_pack": "users",
+                    "blur": {
+                      "enable": true,
+                      "size": 16
+                    },
+                    "source_id": "",
+                    "variable_id": "",
+                    "file": "//static.creatium.io/bgvideo/island.jpg",
+                    "size": [
+                      1280,
+                      720
+                    ]
+                  },
+                  "bgVideo_Sound": false,
+                  "bgColor": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      1,
+                      1,
+                      1,
+                      1
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": []
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "global",
+                    "router": "color"
+                  },
+                  "bgColor_Alpha": 0.25,
+                  "bgColor_Bright": 0,
+                  "bgBright": -0.5,
+                  "bgGradientDirection": "to bottom",
+                  "bgGradientColor1": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      1,
+                      1,
+                      1,
+                      1
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": []
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "global",
+                    "router": "color"
+                  },
+                  "bgGradientColor1_Alpha": 0.8,
+                  "bgGradientColor2": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      1,
+                      1,
+                      1,
+                      1
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": []
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "global",
+                    "router": "color"
+                  },
+                  "bgGradientColor2_Alpha": 0.2,
+                  "bgGradientCode": "linear-gradient(90deg, rgba(195,40,34,1) 0%, rgba(222,224,96,1) 50%, rgba(45,253,235,1) 100%)",
+                  "bgGradientColorside": "dec",
+                  "bgParticlesShapeParticle": "circle",
+                  "bgParticlesColorParticle": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      1,
+                      1,
+                      1,
+                      1
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": []
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "contrast",
+                    "contrast": {
+                      "type": "frontcolor"
+                    },
+                    "parent": {
+                      "type": "frontcolor"
+                    }
+                  },
+                  "bgParticlesOpacityParticle": 1,
+                  "bgParticlesNumberParticle": 80,
+                  "bgParticlesSizeParticle": 5,
+                  "bgParticlesLink": true,
+                  "bgParticlesLinkDistance": 150,
+                  "bgParticlesMoveState": true,
+                  "bgParticlesMoveSpeed": 2,
+                  "bgParticlesMoveDirection": "none",
+                  "bgParticlesMoveOutMode": "out",
+                  "bgParticlesInteractHoverState": false,
+                  "bgParticlesInteractHoverType": "grab",
+                  "bgParticlesInteractHoverGrabDistance": 250,
+                  "bgParticlesInteractHoverGrabOpacity": 0.8,
+                  "bgParticlesInteractHoverRepulseDistance": 150,
+                  "bgParticlesInteractHoverBubbleDistance": 150,
+                  "bgParticlesInteractHoverBubbleSize": 10,
+                  "bgParticlesInteractClickState": false,
+                  "bgParticlesInteractClickType": "push",
+                  "bgParticlesInteractClickCount": 2,
+                  "padTop_x_all": 5,
+                  "padTop_x_md": null,
+                  "padTop_x_sm": null,
+                  "padTop_x_xs": null,
+                  "padBottom_x_all": 5,
+                  "padBottom_x_md": null,
+                  "padBottom_x_sm": null,
+                  "padBottom_x_xs": null,
+                  "padLeft_x_all": 5,
+                  "padLeft_x_md": null,
+                  "padLeft_x_sm": null,
+                  "padLeft_x_xs": null,
+                  "padRight_x_all": 5,
+                  "padRight_x_md": null,
+                  "padRight_x_sm": null,
+                  "padRight_x_xs": null,
+                  "borderWidth": 3,
+                  "borderRadius": 0,
+                  "borderStyle": "none",
+                  "borderColor": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      1,
+                      1,
+                      1,
+                      1
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": []
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "parent",
+                    "parent": {
+                      "type": "frontcolor"
+                    },
+                    "router": "color"
+                  },
+                  "shadow": false,
+                  "shadowInset": false,
+                  "shadowX": 0,
+                  "shadowY": 2,
+                  "shadowBlur": 5,
+                  "shadowScale": 0,
+                  "shadowColor": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      0,
+                      0,
+                      0
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": []
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "self",
+                    "router": "color"
+                  },
+                  "shadowAlpha": 0.5,
+                  "wow": false,
+                  "wowType": "fadeIn",
+                  "wowDelay": 0,
+                  "hover": false,
+                  "hoverType": "hvr-grow-mini",
+                  "id": {
+                    "datamix": {
+                      "ast": "4.2"
+                    },
+                    "children": [
+                      {
+                        "type": "Code",
+                        "code": ""
+                      }
+                    ]
+                  },
+                  "classes": {
+                    "datamix": {
+                      "ast": "4.2"
+                    },
+                    "children": [
+                      {
+                        "type": "Code",
+                        "code": ""
+                      }
+                    ]
+                  },
+                  "showOnXs": true,
+                  "showOnSm": true,
+                  "showOnMd": true,
+                  "showOnLg": true,
+                  "showToMembers": true,
+                  "showToGuests": true,
+                  "showCondition": {
+                    "datamix": {
+                      "condition": "4.2"
+                    },
+                    "operator": "and",
+                    "conditions": []
+                  }
+                }
+              },
+              "settings": {
+                "datamix": {
+                  "svgicon": "4.2"
+                },
+                "handlers": "settings",
+                "vals": {
+                  "src": {
+                    "datamix": {
+                      "icon": "4.2",
+                      "img": "4.2"
+                    },
+                    "file": "//static.creatium.io/img/icons-round-commerce/82.png",
+                    "pack": "old-thin",
+                    "size": [
+                      256,
+                      256
+                    ],
+                    "svg": "<path fill=\"none\" stroke=\"#231F20\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" d=\" M17.232,59c7.766-7.764,25.598-29.004,25.598-29.004S24.938,8.765,17.17,1\"/>",
+                    "folder": "all",
+                    "style": "",
+                    "viewbox": [
+                      0,
+                      0,
+                      60,
+                      60
+                    ],
+                    "quality": 8,
+                    "blur": {
+                      "enable": true,
+                      "size": 16
+                    },
+                    "source": "upload",
+                    "resize": true,
+                    "legacy_color": null,
+                    "legacy_pack": "icons-round-commerce",
+                    "source_id": "",
+                    "variable_id": ""
+                  },
+                  "color": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      1,
+                      1,
+                      1,
+                      1
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": []
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "contrast",
+                    "contrast": {
+                      "type": "frontcolor"
+                    },
+                    "parent": {
+                      "type": "frontcolor"
+                    }
+                  },
+                  "decor": "none",
+                  "scale": 0.6,
+                  "decorRadius": 1,
+                  "decorWidth": 0.03,
+                  "decorOpacity": 0.25,
+                  "shadow": false,
+                  "shadowInset": false,
+                  "shadowX": 0,
+                  "shadowY": 0,
+                  "shadowBlur": 5,
+                  "shadowScale": 2,
+                  "shadowColor": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      0,
+                      0,
+                      0
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": []
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "self"
+                  },
+                  "shadowAlpha": 0.25,
+                  "decorStrokeColorDifferent": false,
+                  "decorStrokeColor": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      1,
+                      1,
+                      1,
+                      1
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": []
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "contrast",
+                    "contrast": {
+                      "type": "frontcolor"
+                    },
+                    "parent": {
+                      "type": "frontcolor"
+                    }
+                  },
+                  "decorStrokeOpacity": 1,
+                  "mode": "image",
+                  "image": {
+                    "datamix": {
+                      "img": "4.2"
+                    },
+                    "quality": 8,
+                    "source": "upload",
+                    "resize": true,
+                    "legacy_color": null,
+                    "legacy_pack": "icons-round-commerce",
+                    "blur": {
+                      "enable": true,
+                      "size": 16
+                    },
+                    "source_id": "",
+                    "variable_id": "",
+                    "file": "//static.creatium.io/img/icons-round-commerce/82.png",
+                    "size": [
+                      256,
+                      256
+                    ]
+                  },
+                  "valign": "middle",
+                  "title": false,
+                  "text": true,
+                  "paddingImg": 12,
+                  "paddingHead": 4,
+                  "place": "left",
+                  "mobileCenter": false
+                }
+              },
+              "width": 40,
+              "title": {
+                "datamix": {
+                  "html": "4.2"
+                },
+                "html": {
+                  "datamix": {
+                    "ast": "4.2"
+                  },
+                  "children": [
+                    {
+                      "type": "Code",
+                      "code": "Заголовок"
+                    }
+                  ]
+                },
+                "tag": "h2",
+                "lg": {
+                  "override": {
+                    "align": true,
+                    "font": true,
+                    "size": true,
+                    "intervals": true,
+                    "columns": true,
+                    "color": true
+                  },
+                  "align": "left",
+                  "font": "font-text",
+                  "size": 24,
+                  "intervals": {
+                    "leading": 1.1,
+                    "tracking": 0
+                  },
+                  "columns": {
+                    "count": 1,
+                    "gap": 20
+                  },
+                  "color": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      0,
+                      0,
+                      0
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": [
+                        [
+                          "l",
+                          "rel",
+                          0
+                        ]
+                      ]
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "contrast",
+                    "contrast": {
+                      "type": "frontcolor"
+                    },
+                    "inherit": false,
+                    "opacity": 1
+                  }
+                },
+                "md": {
+                  "override": {
+                    "align": false,
+                    "font": false,
+                    "size": false,
+                    "intervals": false,
+                    "columns": false,
+                    "color": false
+                  },
+                  "align": "left",
+                  "font": "font-text",
+                  "size": 16,
+                  "intervals": {
+                    "leading": 1.4,
+                    "tracking": 0
+                  },
+                  "columns": {
+                    "count": 1,
+                    "gap": 20
+                  },
+                  "color": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      0,
+                      0,
+                      0
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": [
+                        [
+                          "l",
+                          "rel",
+                          0
+                        ]
+                      ]
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "contrast",
+                    "contrast": {
+                      "type": "frontcolor"
+                    },
+                    "inherit": false,
+                    "opacity": 1
+                  }
+                },
+                "sm": {
+                  "override": {
+                    "align": false,
+                    "font": false,
+                    "size": false,
+                    "intervals": false,
+                    "columns": false,
+                    "color": false
+                  },
+                  "align": "left",
+                  "font": "font-text",
+                  "size": 16,
+                  "intervals": {
+                    "leading": 1.4,
+                    "tracking": 0
+                  },
+                  "columns": {
+                    "count": 1,
+                    "gap": 20
+                  },
+                  "color": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      0,
+                      0,
+                      0
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": [
+                        [
+                          "l",
+                          "rel",
+                          0
+                        ]
+                      ]
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "contrast",
+                    "contrast": {
+                      "type": "frontcolor"
+                    },
+                    "inherit": false,
+                    "opacity": 1
+                  }
+                },
+                "xs": {
+                  "override": {
+                    "align": false,
+                    "font": false,
+                    "size": false,
+                    "intervals": false,
+                    "columns": false,
+                    "color": false
+                  },
+                  "align": "left",
+                  "font": "font-text",
+                  "size": 16,
+                  "intervals": {
+                    "leading": 1.4,
+                    "tracking": 0
+                  },
+                  "columns": {
+                    "count": 1,
+                    "gap": 20
+                  },
+                  "color": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      0,
+                      0,
+                      0
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": [
+                        [
+                          "l",
+                          "rel",
+                          0
+                        ]
+                      ]
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "contrast",
+                    "contrast": {
+                      "type": "frontcolor"
+                    },
+                    "inherit": false,
+                    "opacity": 1
+                  }
+                }
+              },
+              "subtitle": {
+                "datamix": {
+                  "html": "4.2"
+                },
+                "html": {
+                  "datamix": {
+                    "ast": "4.2"
+                  },
+                  "children": [
+                    {
+                      "type": "Code",
+                      "code": "Это простой пример. Смотрите код в настройках виджета."
+                    }
+                  ]
+                },
+                "tag": "p",
+                "lg": {
+                  "override": {
+                    "align": true,
+                    "font": true,
+                    "size": true,
+                    "intervals": true,
+                    "columns": true,
+                    "color": true
+                  },
+                  "align": "left",
+                  "font": "font-text",
+                  "size": 18,
+                  "intervals": {
+                    "leading": 1.4,
+                    "tracking": 0
+                  },
+                  "columns": {
+                    "count": 1,
+                    "gap": 20
+                  },
+                  "color": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      0,
+                      0,
+                      0
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": [
+                        [
+                          "l",
+                          "rel",
+                          0
+                        ]
+                      ]
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "contrast",
+                    "contrast": {
+                      "type": "frontcolor"
+                    },
+                    "inherit": false,
+                    "opacity": 1,
+                    "alpha": 1
+                  }
+                },
+                "md": {
+                  "override": {
+                    "align": false,
+                    "font": false,
+                    "size": false,
+                    "intervals": false,
+                    "columns": false,
+                    "color": false
+                  },
+                  "align": "left",
+                  "font": "font-text",
+                  "size": 16,
+                  "intervals": {
+                    "leading": 1.4,
+                    "tracking": 0
+                  },
+                  "columns": {
+                    "count": 1,
+                    "gap": 20
+                  },
+                  "color": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      0,
+                      0,
+                      0
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": [
+                        [
+                          "l",
+                          "rel",
+                          0
+                        ]
+                      ]
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "contrast",
+                    "contrast": {
+                      "type": "frontcolor"
+                    },
+                    "inherit": false,
+                    "opacity": 1
+                  }
+                },
+                "sm": {
+                  "override": {
+                    "align": false,
+                    "font": false,
+                    "size": false,
+                    "intervals": false,
+                    "columns": false,
+                    "color": false
+                  },
+                  "align": "left",
+                  "font": "font-text",
+                  "size": 16,
+                  "intervals": {
+                    "leading": 1.4,
+                    "tracking": 0
+                  },
+                  "columns": {
+                    "count": 1,
+                    "gap": 20
+                  },
+                  "color": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      0,
+                      0,
+                      0
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": [
+                        [
+                          "l",
+                          "rel",
+                          0
+                        ]
+                      ]
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "contrast",
+                    "contrast": {
+                      "type": "frontcolor"
+                    },
+                    "inherit": false,
+                    "opacity": 1
+                  }
+                },
+                "xs": {
+                  "override": {
+                    "align": false,
+                    "font": false,
+                    "size": false,
+                    "intervals": false,
+                    "columns": false,
+                    "color": false
+                  },
+                  "align": "left",
+                  "font": "font-text",
+                  "size": 16,
+                  "intervals": {
+                    "leading": 1.4,
+                    "tracking": 0
+                  },
+                  "columns": {
+                    "count": 1,
+                    "gap": 20
+                  },
+                  "color": {
+                    "datamix": {
+                      "color": "4.2"
+                    },
+                    "data": [
+                      0,
+                      0,
+                      0
+                    ],
+                    "global": {
+                      "id": 0,
+                      "transform": [
+                        [
+                          "l",
+                          "rel",
+                          0
+                        ]
+                      ]
+                    },
+                    "variable": {
+                      "source_id": "",
+                      "id": "",
+                      "transform": [],
+                      "basic": [
+                        1,
+                        1,
+                        0.5,
+                        1
+                      ]
+                    },
+                    "source": "contrast",
+                    "contrast": {
+                      "type": "frontcolor"
+                    },
+                    "inherit": false,
+                    "opacity": 1
+                  }
+                }
+              },
+              "cont1": {
+                "datamix": {
+                  "cont": "4.2"
+                },
+                "sources": []
+              },
+              "cont2": {
+                "datamix": {
+                  "cont": "4.2"
+                },
+                "sources": []
+              }
+            },
+            "multilandings": [],
+            "variants": [],
+            "virtualHeight": {
+              "lg": 500,
+              "md": 500,
+              "sm": 500,
+              "xs": 500
+            },
+            "redactor": "4.2",
+            "redactor_patch": 5
+          }
+        ],
+        "tplname": "cont"
+      }
+    },
+    "templates": {
+      "cont": {
+        "datamix": {
+          "cont": "4.2"
+        },
+        "sources": [],
+        "tplname": "cont"
+      },
+      "text": {
+        "datamix": {
+          "html": "4.2"
+        },
+        "html": {
+          "datamix": {
+            "ast": "4.2"
+          },
+          "children": [
+            {
+              "type": "Code",
+              "code": "Редактируемый текст"
+            }
+          ]
+        },
+        "tag": "p",
+        "lg": {
+          "override": {
+            "align": true,
+            "font": true,
+            "size": true,
+            "intervals": true,
+            "columns": true,
+            "color": true
+          },
+          "align": "left",
+          "font": "font-text",
+          "size": 16,
+          "intervals": {
+            "leading": 1.4,
+            "tracking": 0
+          },
+          "columns": {
+            "count": 1,
+            "gap": 20
+          },
+          "color": {
+            "datamix": {
+              "color": "4.2"
+            },
+            "data": [
+              0,
+              0,
+              0
+            ],
+            "global": {
+              "id": 0,
+              "transform": [
+                [
+                  "l",
+                  "rel",
+                  0
+                ]
+              ]
+            },
+            "variable": {
+              "source_id": "",
+              "id": "",
+              "transform": [],
+              "basic": [
+                1,
+                1,
+                0.5,
+                1
+              ]
+            },
+            "source": "contrast",
+            "contrast": {
+              "type": "frontcolor"
+            },
+            "inherit": false,
+            "opacity": 1
+          }
+        },
+        "md": {
+          "override": {
+            "align": false,
+            "font": false,
+            "size": false,
+            "intervals": false,
+            "columns": false,
+            "color": false
+          },
+          "align": "left",
+          "font": "font-text",
+          "size": 16,
+          "intervals": {
+            "leading": 1.4,
+            "tracking": 0
+          },
+          "columns": {
+            "count": 1,
+            "gap": 20
+          },
+          "color": {
+            "datamix": {
+              "color": "4.2"
+            },
+            "data": [
+              0,
+              0,
+              0
+            ],
+            "global": {
+              "id": 0,
+              "transform": [
+                [
+                  "l",
+                  "rel",
+                  0
+                ]
+              ]
+            },
+            "variable": {
+              "source_id": "",
+              "id": "",
+              "transform": [],
+              "basic": [
+                1,
+                1,
+                0.5,
+                1
+              ]
+            },
+            "source": "contrast",
+            "contrast": {
+              "type": "frontcolor"
+            },
+            "inherit": false,
+            "opacity": 1
+          }
+        },
+        "sm": {
+          "override": {
+            "align": false,
+            "font": false,
+            "size": false,
+            "intervals": false,
+            "columns": false,
+            "color": false
+          },
+          "align": "left",
+          "font": "font-text",
+          "size": 16,
+          "intervals": {
+            "leading": 1.4,
+            "tracking": 0
+          },
+          "columns": {
+            "count": 1,
+            "gap": 20
+          },
+          "color": {
+            "datamix": {
+              "color": "4.2"
+            },
+            "data": [
+              0,
+              0,
+              0
+            ],
+            "global": {
+              "id": 0,
+              "transform": [
+                [
+                  "l",
+                  "rel",
+                  0
+                ]
+              ]
+            },
+            "variable": {
+              "source_id": "",
+              "id": "",
+              "transform": [],
+              "basic": [
+                1,
+                1,
+                0.5,
+                1
+              ]
+            },
+            "source": "contrast",
+            "contrast": {
+              "type": "frontcolor"
+            },
+            "inherit": false,
+            "opacity": 1
+          }
+        },
+        "xs": {
+          "override": {
+            "align": false,
+            "font": false,
+            "size": false,
+            "intervals": false,
+            "columns": false,
+            "color": false
+          },
+          "align": "left",
+          "font": "font-text",
+          "size": 16,
+          "intervals": {
+            "leading": 1.4,
+            "tracking": 0
+          },
+          "columns": {
+            "count": 1,
+            "gap": 20
+          },
+          "color": {
+            "datamix": {
+              "color": "4.2"
+            },
+            "data": [
+              0,
+              0,
+              0
+            ],
+            "global": {
+              "id": 0,
+              "transform": [
+                [
+                  "l",
+                  "rel",
+                  0
+                ]
+              ]
+            },
+            "variable": {
+              "source_id": "",
+              "id": "",
+              "transform": [],
+              "basic": [
+                1,
+                1,
+                0.5,
+                1
+              ]
+            },
+            "source": "contrast",
+            "contrast": {
+              "type": "frontcolor"
+            },
+            "inherit": false,
+            "opacity": 1
+          }
+        },
+        "tplname": "text"
+      },
+      "icon": {
+        "datamix": {
+          "rawsvgicon": "4.2"
+        },
+        "handlers": "rawsvgicon",
+        "vals": {
+          "src": {
+            "datamix": {
+              "icon": "4.2"
+            },
+            "file": "//static.creatium.io/svg/icons-thin/controls-33.svg",
+            "pack": "old-thin",
+            "size": [
+              256,
+              256
+            ],
+            "svg": "<style type=\"text/css\"><![CDATA[ .st0{fill:none;stroke:#231F20;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} ]]></style><polygon class=\"st0\" points=\"30.001,2.421 38.965,20.576 59,23.49 44.499,37.622 47.922,57.579 30.001,48.156 12.076,57.579 15.5,37.622 1,23.49 21.041,20.576 \"/>",
+            "folder": "all",
+            "style": "",
+            "viewbox": [
+              0,
+              0,
+              60,
+              60
+            ],
+            "source": "upload"
+          }
+        },
+        "tplname": "icon"
+      },
+      "image": {
+        "datamix": {
+          "rawimage": "4.2"
+        },
+        "handlers": "rawimage",
+        "vals": {
+          "src": {
+            "datamix": {
+              "img": "4.2"
+            },
+            "quality": 8,
+            "source": "upload",
+            "resize": true,
+            "legacy_color": [
+              0,
+              1,
+              0.5,
+              1
+            ],
+            "legacy_pack": "users",
+            "blur": {
+              "enable": true,
+              "size": 16
+            },
+            "source_id": "",
+            "variable_id": "",
+            "file": "//i.1.creatium.io/plp/u0.plpstatic.ru/63d3a6c9689d0a310bdb33ba48a9f341/194594eafe8a83db5eb472d202544c73.png",
+            "size": [
+              477,
+              500
+            ]
+          }
+        },
+        "tplname": "image"
+      }
+    },
+    "cells": {
+      "query": {
+        "select": "*",
+        "from": null,
+        "where": {
+          "operator": "and",
+          "filters": [],
+          "ignore_empty": true
+        },
+        "order": [],
+        "limit": 10,
+        "limit_dev": 20,
+        "skip": 0
+      },
+      "variable": "table"
+    }
+  },
+  "multilandings": [],
+  "variants": [],
+  "virtualHeight": {
+    "lg": 220,
+    "md": 500,
+    "sm": 500,
+    "xs": 500
+  },
+  "redactor": "4.2",
+  "redactor_patch": 5
+}

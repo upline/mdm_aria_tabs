@@ -51,10 +51,10 @@ function changeTabs(e) {
     // Hide all tab panels
     grandparent
         .querySelectorAll('[role="tabpanel"]')
-        .forEach((p) => p.setAttribute('hidden', true));
+        .forEach((p) => p.classList.add('hidden'));
 
     // Show the selected panel
     grandparent.parentNode
         .querySelector(`#${target.getAttribute('aria-controls')}`)
-        .removeAttribute('hidden');
+        .classList.remove("hidden");
 }

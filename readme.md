@@ -1,0 +1,1 @@
+https://cdn.jsdelivr.net/gh/upline/mdm_aria_tabs@1.0.2/mdm_aria_tabs.js

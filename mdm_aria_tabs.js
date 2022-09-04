@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function changeTabs(e) {
-    const target = e.target;
+    const target = e.currentTarget;
     const parent = target.parentNode;
     const grandparent = parent.parentNode;
 
